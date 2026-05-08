@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rupachad
+
+This log tracks the cryptographic history and versioning for the song **Rupachad** (rupachad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:57:08.766626 | `v1` | `7118158f341280bb2da5adf458a957840f0c3e7b96a3d851cd334d655829a0a7` | `10e1e128eb469af3b1881fed3bcd84f27f37f025d92e7e51de76ac79246426fc` | `2026-05-08_rupachad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
